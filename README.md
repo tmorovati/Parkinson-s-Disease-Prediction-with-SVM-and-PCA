@@ -2,7 +2,6 @@
 
 Certainly! Here's a sample README file for your project on predicting the chance of getting Parkinson's disease using a machine learning method, SVM (Support Vector Machine), with dimensionality reduction using PCA (Principal Component Analysis):
 
-![Project Image](project_image.jpg) (Replace with your project image or logo)
 
 ## Table of Contents
 
