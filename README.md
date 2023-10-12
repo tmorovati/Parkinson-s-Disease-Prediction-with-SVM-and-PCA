@@ -26,6 +26,8 @@ This project is focused on predicting the likelihood of Parkinson's disease usin
 - Customizable for additional features or improved models.
 
 ## Dataset
+![image](https://github.com/tmorovati/Parkinson-s-Disease-Prediction-with-SVM-and-PCA/assets/47552594/98eb7969-864c-471d-a0f0-205d3832982d)
+
 
 The dataset used for this project contains various features related to Parkinson's disease. It is included in this repository and is available in the `dataset` directory. The dataset is preprocessed and ready for use with the code.
 
